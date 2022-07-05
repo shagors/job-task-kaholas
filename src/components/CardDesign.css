@@ -1,3 +1,9 @@
+.body-left{
+  width: 650px;
+  margin-left: 0;
+  margin-right: 30px;
+}
+
 /* From uiverse.io by @alexmaracinaru */
 button {
   cursor: pointer;
